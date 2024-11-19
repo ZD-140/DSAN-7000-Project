@@ -1,0 +1,36 @@
+{
+    "os": "macOS-14.5-arm64-arm-64bit",
+    "python": "3.11.3",
+    "heartbeatAt": "2024-11-18T10:52:35.465075",
+    "startedAt": "2024-11-18T10:52:35.400607",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/ZD-140/DSAN-6000-Project",
+        "commit": "c894c11c6a37c5cfa73ef9b55b0d1fde7317fb64"
+    },
+    "email": "zd140@georgetown.edu",
+    "root": "/Users/a123/Desktop/\u4e54\u6cbb\u57ce\u6240\u6709\u6587\u4ef6/DSAN 7000/capstone project/code",
+    "host": "MacBook-Pro-8.local",
+    "username": "a123",
+    "executable": "/Users/a123/anaconda3/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 244.93741607666016
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
